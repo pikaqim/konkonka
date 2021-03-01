@@ -1,0 +1,205 @@
+{
+  "id": "2375147",
+  "name": "konka_icons",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12578883",
+      "name": "menu-left",
+      "font_class": "menu-left",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "12578902",
+      "name": "ok-sign",
+      "font_class": "ok-sign",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "399199",
+      "name": "时钟，闹铃，计时，限时",
+      "font_class": "clocks",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "648802",
+      "name": "购物车",
+      "font_class": "shopcar",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1174772",
+      "name": "d-arrow-right",
+      "font_class": "d-arrow-right",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "2794635",
+      "name": "领券中心",
+      "font_class": "voucher-center",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "3878676",
+      "name": "新闻",
+      "font_class": "news",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "5334176",
+      "name": "企业新闻",
+      "font_class": "company-news",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6996234",
+      "name": "我的",
+      "font_class": "me",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "7450632",
+      "name": "商城线条",
+      "font_class": "mall-line",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "12578764",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "12578786",
+      "name": "chevron-left",
+      "font_class": "chevron-left",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "12578787",
+      "name": "chevron-right",
+      "font_class": "chevron-right",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "12578856",
+      "name": "headphones",
+      "font_class": "headphones",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "12578881",
+      "name": "menu-down",
+      "font_class": "menu-down",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "12578884",
+      "name": "menu-right",
+      "font_class": "menu-right",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "12578885",
+      "name": "menu-up",
+      "font_class": "menu-up",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "12578917",
+      "name": "plane",
+      "font_class": "plane",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "12578924",
+      "name": "qrcode",
+      "font_class": "qrcode",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "12578952",
+      "name": "shopping-cart",
+      "font_class": "shopping-cart",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "12578996",
+      "name": "triangle-bottom",
+      "font_class": "triangle-bottom",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "12578999",
+      "name": "triangle-right",
+      "font_class": "triangle-right",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "12579000",
+      "name": "triangle-top",
+      "font_class": "triangle-top",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "12579001",
+      "name": "triangle-left",
+      "font_class": "triangle-left",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "12579005",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "12579009",
+      "name": "wrench",
+      "font_class": "wrench",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "13519363",
+      "name": "d-arrow-right",
+      "font_class": "d-arrow-right1",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "15919606",
+      "name": "我的",
+      "font_class": "user1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}

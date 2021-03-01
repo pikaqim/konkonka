@@ -1,0 +1,39 @@
+.gfilter-list li a {
+  color: #333;
+}
+
+.gfilter-list li a:hover {
+  color: #ed1c24;
+}
+
+.gfilter-list li .nolimit {
+  background: #ed1c24;
+  color: #fff;
+}
+
+.gfilter-list li .nolimit:hover {
+  color: #fff;
+}
+
+.goods-list .col-3 {
+  background: #fff;
+}
+
+.goods-list .col-3 .goods-list-hover > a:first-child {
+  border: 1px solid #ed1c24;
+  color: #ed1c24;
+}
+
+.goods-list .col-3 .goods-list-hover > a:last-child {
+  background: #ed1c24;
+  border: 1px solid #ed1c24;
+}
+
+.goods-list .col-3 .figure-text {
+  color: #989898;
+}
+
+.goods-list .col-3 .price {
+  color: #da2a2a;
+}
+/* list page end */

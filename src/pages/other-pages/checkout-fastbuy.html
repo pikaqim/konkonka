@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>快速支付</title>
+</head>
+<body>
+    <script src="../../assets/js/cookie.js"></script>
+    <script>
+    //获取账号cookie
+    var name1 = getCookie("user")
+
+    //获取地址栏中的地址 ==>用来在登录成功时，跳转回来的 当前url页面，即会回到购物车页面
+    var url = location.href
+    if(name1){
+
+        if (confirm("你确定要购买吗？")) {
+            alert("你已经支付成功，祝你生活愉快，欢迎下次再买~")
+            location.href = "../../index.html"
+        }
+    } else {
+        alert("你还没登录，请登录在进入")
+        location="../login.html?pathUrl="+url 
+    }
+
+        
+    </script>
+</body>
+</html>
